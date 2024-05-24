@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\Project\\Landmark\\Notepad\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{96492FFC-4380-4392-B033-969367FA48DB}|Notepad\\Notepad.csproj|c:\\users\\user\\documents\\project\\landmark\\notepad\\notepad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96492FFC-4380-4392-B033-969367FA48DB}|Notepad\\Notepad.csproj|solutionrelative:notepad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{96492FFC-4380-4392-B033-969367FA48DB}|Notepad\\Notepad.csproj|c:\\users\\user\\documents\\project\\landmark\\notepad\\notepad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{96492FFC-4380-4392-B033-969367FA48DB}|Notepad\\Notepad.csproj|solutionrelative:notepad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Project\\Landmark\\Notepad\\Notepad\\Form1.cs",
+              "RelativeDocumentMoniker": "Notepad\\Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Project\\Landmark\\Notepad\\Notepad\\Form1.cs",
+              "RelativeToolTip": "Notepad\\Form1.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T18:17:06.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\Project\\Landmark\\Notepad\\Notepad\\Form1.cs",
               "RelativeDocumentMoniker": "Notepad\\Form1.cs",

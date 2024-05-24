@@ -16,5 +16,46 @@ namespace Notepad
         {
             InitializeComponent();
         }
+
+        private void openToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            OPEN.Title = "Select a file";
+            OPEN.FileName = "";
+            OPEN.InitialDirectory = "C:\\Users\\USER\\Documents";
+            OPEN.Filter = "TXT Files| *.txt";
+
+            string selected_file = "";
+
+            if (OPEN.ShowDialog() == DialogResult.Cancel)
+            {
+                MessageBox.Show("No file was selected");
+            }
+
+            else
+            {
+                selected_file = OPEN.FileName;
+                richTextBox1.LoadFile(selected_file, RichTextBoxStreamType.PlainText);
+            }
+        }
+        private void saveToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            SAVE.Title = "Save the file";
+            SAVE.FileName = "";
+            SAVE.InitialDirectory = "C:\\Users\\USER\\Documents";
+            SAVE.Filter = "TXT Files| *.txt | All Files| *.*";
+
+
+            if (SAVE.ShowDialog() == DialogResult.Cancel)
+            {
+                MessageBox.Show("File wasn't saved");
+            }
+
+            else 
+            {
+                richTextBox1.SaveFile(SAVE.FileName, RichTextBoxStreamType.PlainText);
+            }
+        }
+
+        
     }
 }

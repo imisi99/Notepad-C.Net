@@ -56,6 +56,38 @@ namespace Notepad
             }
         }
 
-        
+        private void copyToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (richTextBox1.SelectedText != "")
+            {
+                Clipboard.SetText(richTextBox1.SelectedText);
+            }
+
+        }
+
+        private void pasteToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (Clipboard.ContainsText())
+            {
+                richTextBox1.SelectedText = Clipboard.GetText();
+            }
+        }
+
+        private void cutToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (richTextBox1.SelectedText != "")
+            {
+                Clipboard.SetText(richTextBox1.SelectedText);
+                richTextBox1.SelectedText = "";
+            }
+        }
+
+        private void clearToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if(richTextBox1.Text != "")
+            {
+                richTextBox1.Text = "";
+            }
+        }
     }
 }

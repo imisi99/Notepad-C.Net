@@ -8,3 +8,7 @@ C:\Users\USER\Documents\Project\Landmark\Notepad\Notepad\obj\Debug\Notepad.cspro
 C:\Users\USER\Documents\Project\Landmark\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
 C:\Users\USER\Documents\Project\Landmark\Notepad\Notepad\obj\Debug\Notepad.exe
 C:\Users\USER\Documents\Project\Landmark\Notepad\Notepad\obj\Debug\Notepad.pdb
+C:\Users\USER\Documents\Project\Landmark\Notepad\Notepad\bin\Debug\Notepad.exe.manifest
+C:\Users\USER\Documents\Project\Landmark\Notepad\Notepad\bin\Debug\Notepad.application
+C:\Users\USER\Documents\Project\Landmark\Notepad\Notepad\obj\Debug\Notepad.exe.manifest
+C:\Users\USER\Documents\Project\Landmark\Notepad\Notepad\obj\Debug\Notepad.application

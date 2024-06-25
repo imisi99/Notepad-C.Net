@@ -3,12 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\Project\\Landmark\\Notepad\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96492FFC-4380-4392-B033-969367FA48DB}|Notepad\\Notepad.csproj|c:\\users\\user\\documents\\project\\landmark\\notepad\\notepad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{96492FFC-4380-4392-B033-969367FA48DB}|Notepad\\Notepad.csproj|C:\\Users\\USER\\Documents\\Project\\Landmark\\Notepad\\notepad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96492FFC-4380-4392-B033-969367FA48DB}|Notepad\\Notepad.csproj|solutionrelative:notepad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96492FFC-4380-4392-B033-969367FA48DB}|Notepad\\Notepad.csproj|c:\\users\\user\\documents\\project\\landmark\\notepad\\notepad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{96492FFC-4380-4392-B033-969367FA48DB}|Notepad\\Notepad.csproj|C:\\Users\\USER\\Documents\\Project\\Landmark\\Notepad\\notepad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{96492FFC-4380-4392-B033-969367FA48DB}|Notepad\\Notepad.csproj|solutionrelative:notepad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Notepad||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96492FFC-4380-4392-B033-969367FA48DB}|Notepad\\Notepad.csproj|c:\\users\\user\\documents\\project\\landmark\\notepad\\notepad\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|cc4014f5-b18d-439c-9352-f99d984cca85"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +24,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Notepad",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Project\\Landmark\\Notepad\\Notepad\\Notepad.csproj",
+              "RelativeDocumentMoniker": "Notepad\\Notepad.csproj",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Project\\Landmark\\Notepad\\Notepad\\Notepad.csproj",
+              "RelativeToolTip": "Notepad\\Notepad.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-31T12:14:59.494Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -32,7 +50,7 @@
               "RelativeDocumentMoniker": "Notepad\\Form1.cs",
               "ToolTip": "C:\\Users\\USER\\Documents\\Project\\Landmark\\Notepad\\Notepad\\Form1.cs",
               "RelativeToolTip": "Notepad\\Form1.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAwwBkAAAAAAAAA",
+              "ViewState": "AQIAACwAAAAAAAAAAAAnwDoAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-23T18:17:06.464Z",
               "EditorCaption": ""
